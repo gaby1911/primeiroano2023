@@ -1,10 +1,14 @@
+body{
+    background-color: azure;
+}
 h1{
     color:blue;
     font-size: 50px;
     text-align: center;
+
 }
 p{
-    color:aquamarine;
+    color:black;
     font-size: 30px;
     text-align: justify;
 }
