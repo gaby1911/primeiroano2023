@@ -17,7 +17,7 @@ p{
     height:400px;
     margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
     padding: 2px; /*define uma distância interna entre um elemento e sua borda*/
-    border: 0.2rem solid blue;
+    border: 0.2rem solid azure;
     border-radius: 10px;
 }
 .fotos{
@@ -25,6 +25,6 @@ width: 500px;
 height: 300px;
 margin: 10px;
 padding 3px;
-border: 0.5rem solid blue;
+border: 0.5rem solid azure;
 border-radius: 24px;
 }
