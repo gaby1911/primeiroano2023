@@ -15,8 +15,8 @@ p{
 .logo {
     width: 500px;
     height:500px;
-    margin: 1px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
-    padding: 1px; /*define uma distância interna entre um elemento e sua borda*/
-    border: 0.1rem solid blue;
+    margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
+    padding: 2px; /*define uma distância interna entre um elemento e sua borda*/
+    border: 0.2rem solid blue;
     border-radius: 10px;
 }
