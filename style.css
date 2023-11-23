@@ -11,11 +11,13 @@ h1{
 h2{
     color: rgb(90, 122, 224);
     font-size: 30px ;
+    text-align: justify;
     
 }
 h3{
     color:black;
     font-size: 30px;
+    text-align: justify;
 }
 p{
     color:rgb(0, 0, 0);
