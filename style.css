@@ -1,6 +1,10 @@
 body{
     font-family: sans-serif;
-    background-color:azure
+    background-color:azure;
+}
+header{
+    background-color: darkgrey;
+    border-bottom: 2px solid;
 }
 h1{
     color:rgb(0, 174, 255);
