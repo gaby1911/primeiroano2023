@@ -1,12 +1,17 @@
 body{
     font-family: sans-serif;
-    background-color: linear-gradient: rgb(235, 248, 248); 
+    background-color:azure
 }
 h1{
     color:rgb(0, 174, 255);
     font-size: 50px;
     text-align: center;
 
+}
+h2{
+    color: rgb(80, 236, 190);
+    font-size: 35px ;
+    
 }
 p{
     color:rgb(0, 0, 0);
