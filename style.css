@@ -4,7 +4,7 @@ body{
 }
 header{
     background-color: rgb(214, 239, 250);
-    border-bottom: 5px solid rgba(0, 0, 0, 0.397)
+    border-bottom: 5px solid rgb(0, 0, 0, 0.938)
 }
 h1{
     color:rgb(0, 174, 255);
@@ -13,7 +13,7 @@ h1{
 
 }
 h2{
-    color: rgb(158, 180, 252);
+    color: rgb(100, 207, 211);
     font-size: 30px ;
     text-align: justify;
     
