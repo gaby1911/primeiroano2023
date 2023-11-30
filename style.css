@@ -3,8 +3,8 @@ body{
     background-color:azure;
 }
 header{
-    background-color: darkgrey;
-    border-bottom: 5px solid silver;
+    background-color: rgb(224, 224, 224);
+    border-bottom: 5px solid rgb(182, 182, 182);
 }
 h1{
     color:rgb(0, 174, 255);
