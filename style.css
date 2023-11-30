@@ -1,6 +1,6 @@
 body{
     font-family: sans-serif;
-    background-color:azure;
+    background-image:linear-gradient(azure);
 }
 header{
     background-color: rgb(214, 239, 250);
@@ -10,6 +10,12 @@ h1{
     color:rgb(50, 212, 233);
     font-size: 50px;
     text-align: center;
+}
+.alho{
+    .splay:flex;
+    .stify-content: space-around;
+
+.lor: #677b3e;
 
 }
 h2{
