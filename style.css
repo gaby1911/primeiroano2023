@@ -7,7 +7,7 @@ header{
     border-bottom: 5px solid rgb(0, 0, 0, 0.938)
 }
 h1{
-    color:rgb(0, 174, 255);
+    color:rgb(55, 155, 185);
     font-size: 50px;
     text-align: center;
 
@@ -24,7 +24,7 @@ h3{
     text-align: justify;
 }
 h4{
-    color:rgb(147, 194, 216);
+    color:rgb(122, 164, 184);
     font-size: 30px;
     text-align: justify;
 }
