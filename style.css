@@ -11,12 +11,10 @@ h1{
     font-size: 50px;
     text-align: center;
 }
-.alho{
-    .splay:flex;
-    .stify-content: space-around;
-
-.lor: #677b3e;
-
+cabecalho{
+    display:flex;
+    justify-content: space-around;
+    color: rgb(167, 191, 202) 93, 123);
 }
 h2{
     color: rgb(73, 176, 236);
